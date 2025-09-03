@@ -61,6 +61,12 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Taplio](https://taplio.com/) - All-in-one AI-powered LinkedIn tool.
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 
+### Ecommerce Catalog Enrichment
+
+- [Anglera](https://www.anglera.com/) - Anglera, an AI-powered enrichment platform that transforms incomplete product data into structured, optimized catalogs for faster launches and smarter search.
+- [CatalogIQ](https://magnetlabs.ai/) - CatalogIQ, a catalog enrichment engine that uses AI and rules-based logic to structure, style, and optimize product content at scale.
+- [Harmonya](https://www.harmonya.com/) - Harmonya, a product data intelligence assistant that uses AI to deliver faster insights, enrich product attributes, and unlock category growth.
+
 ### ChatGPT extensions
 
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - Easily customize AI chatbots like ChatGPT and Google Gemini for better responses.
